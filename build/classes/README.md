@@ -1,1 +1,1 @@
-Ess é meu projeto para apresentar meus cursos
+Ess é meu projeto para apresentar cursos e instrutores
